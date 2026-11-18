@@ -1,0 +1,60 @@
+body | font-family:'DM Sans',Arial,sans-serif
+button | font:inherit
+.topline | font-size:10px; letter-spacing:2px
+.logo | line-height:0
+.nav | font-family:Karla,Arial,sans-serif; font-weight:500; font-size:18px; line-height:27px; letter-spacing:0
+.navitem button | font-family:Karla,Arial,sans-serif; font-weight:500; font-size:18px; line-height:27px; letter-spacing:0
+.phone | font-family:Karla,Arial,sans-serif; font-weight:500; font-size:16px; line-height:1
+.book,.primary | font-family:Karla,Arial,sans-serif; font-weight:500; font-size:16px; line-height:1
+.eyebrow,.kicker | font-size:12px; letter-spacing:2.5px; font-weight:800
+.hero h1 | font-family:Montserrat,Arial,sans-serif; font-weight:700; font-size:clamp(34px,8.15vh,72px); letter-spacing:.015em; line-height:1.18
+.hero .sub | font-family:'DM Sans',Arial,sans-serif; font-size:clamp(14px,2.25vh,19px); font-weight:500; letter-spacing:.01em
+.hero .desc | font-family:'DM Sans',Arial,sans-serif; font-size:clamp(13px,1.95vh,16.5px); font-weight:400; letter-spacing:.008em
+.orbit | line-height:0
+.intro-copy h2,.section-heading h2,.feature h2,.cta h2 | font:800 clamp(34px,3.7vw,57px)/1.18 Manrope,sans-serif; letter-spacing:-2px
+.intro h2 em,.section-heading h2 em,.feature h2 em,.cta h2 em | font-style:normal
+.intro-copy p | line-height:1.9
+.textlink | font-weight:700
+.section-heading p | line-height:1.8
+.treatment-bottom span | font-size:10px; letter-spacing:2px
+.treatment-bottom h3 | font-size:21px
+.treatment-bottom p | font-size:13px; line-height:1.6
+.feature-copy p | line-height:1.9
+.whitebutton | font-weight:700
+.person h3 | font-size:20px
+.cta h2 | font-size:clamp(40px,5vw,70px)
+.footer-main p | line-height:1.8
+.footer-bottom | font-size:12px
+.discover button | font-family:'DM Sans',Arial,sans-serif; font-weight:400; font-size:clamp(15px,1.08vw,17.5px); line-height:1.3
+.discover h2 | font-family:Montserrat,Arial,sans-serif; font-weight:800; font-size:clamp(40px,4.35vw,70px); line-height:.96; letter-spacing:-.018em
+.discover-foot p | font-size:clamp(13px,1.02vw,16px); line-height:1.55; font-weight:400
+.discover-outline,.discover-fill | font-family:Karla,Arial,sans-serif; font-size:20px; font-weight:400; line-height:20px
+.reviews h2 | font-family:Montserrat,Arial,sans-serif; font-weight:800; font-size:clamp(32px,3.2vw,46px); letter-spacing:-.02em; line-height:1.1
+.reviews .review-copy p | font-size:16px; line-height:1.7
+.reviews .review-copy .who | font-weight:600; letter-spacing:.04em; font-size:15px
+.reviews-book | font-family:Karla,Arial,sans-serif; font-weight:400; font-size:20px; line-height:20px
+.real-results h2 | font-family:Montserrat,Arial,sans-serif; font-weight:800; font-size:clamp(28px,3vw,42px); letter-spacing:-.02em; line-height:1.1
+.real-photo span | font-weight:700; letter-spacing:.08em; font-size:clamp(14px,1.25vw,18px)
+.real-more | font-family:Karla,Arial,sans-serif; font-size:20px; font-weight:400; line-height:20px
+.results-banner-copy h2 | font-family:Montserrat,Arial,sans-serif; font-weight:500; font-size:clamp(20px,2.05vw,34px); line-height:1.32; letter-spacing:.045em
+.results-orbit | line-height:0
+.experts h2 | font-family:Karla,Arial,sans-serif; font-weight:700; font-size:50px; line-height:50px; letter-spacing:0
+.expert h3 | font-family:Karla,Arial,sans-serif; font-weight:700; font-size:30px; line-height:30px; letter-spacing:0
+.expert p | font-family:Karla,Arial,sans-serif; font-size:16px; font-weight:400; line-height:27px
+.experts-more | font-family:Karla,Arial,sans-serif; font-size:20px; font-weight:400; line-height:20px
+.finance-copy h2 | font-family:Karla,Arial,sans-serif; font-weight:700; font-size:clamp(34px,3.9vw,50px); letter-spacing:0; line-height:1.4
+.finance-copy p | font-family:Karla,Arial,sans-serif; font-size:clamp(20px,2.1vw,30px); font-weight:400; line-height:1
+.finance-copy a | font-family:Karla,Arial,sans-serif; font-size:20px; font-weight:400; line-height:1
+.faqs h2 | font-family:Karla,Arial,sans-serif; font-weight:700; font-size:42px; line-height:50px; letter-spacing:0
+.faq button | font-family:Karla,Arial,sans-serif; font-weight:700; font-size:24px; line-height:36px
+.faq p | font-family:Karla,Arial,sans-serif; font-size:18px; line-height:30px; font-weight:400
+.ig-head h2 | font-family:Karla,Arial,sans-serif; font-weight:700; font-size:50px; line-height:1
+.ig-btn | font-family:Karla,Arial,sans-serif; font-size:15px; font-weight:400; line-height:15px
+.footer-panel | font-family:Karla,Arial,sans-serif
+.footer-info h4 | font-size:20px; font-weight:700; line-height:28px; letter-spacing:0
+.footer-info a | font-size:16px; font-weight:300; line-height:27px
+.footer-hours li | font-size:16px; line-height:28px; font-weight:400
+.footer-hours li span:last-child | font-weight:500
+.footer-bbb | line-height:0
+.footer-legal nav | font-size:17px; font-weight:400; line-height:27px; letter-spacing:0
+.footer-copy | font-size:14px; line-height:1; font-weight:400
